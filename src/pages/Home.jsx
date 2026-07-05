@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Card from "../components/Card";
+import Card from "../components/card";
 
 function Home() {
   const [favorite, setFavorite] = useState(false);
